@@ -1,13 +1,19 @@
 <template>
   <Navbar />
+  <ShowCase />
+  <SignUp />
 </template>
 
 <script>
 import Navbar from "./components/Navbar.vue";
+import ShowCase from "./components/ShowCase.vue";
+import SignUp from "./components/SignUp.vue";
 export default {
   name: "App",
   components: {
     Navbar,
+    ShowCase,
+    SignUp,
   },
 };
 </script>
