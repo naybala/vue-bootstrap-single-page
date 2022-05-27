@@ -1,6 +1,6 @@
 <template>
   <!-- Footer -->
-  <footer class="p-4 bg-dark text-white text-center position-relative">
+  <footer class="p-4 bg-dark text-white text-center position-relative footer">
     <p class="lead">Copyright &copy; 2021</p>
     <section class="p-5">
       <div class="container">
@@ -12,7 +12,7 @@
               alt=""
             />
           </div>
-          <div class="col-md">
+          <div class="col-lg-4">
             <div class="card bg-dark text-light">
               <div class="card-body text-center">
                 <div class="h1 mb-3">
@@ -27,7 +27,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md">
+          <div class="col-lg-4">
             <div class="card bg-dark text-light">
               <div class="card-body text-center">
                 <div class="h1 mb-3">
@@ -45,7 +45,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md">
+          <div class="col-lg-4">
             <div class="card bg-dark text-light">
               <div class="card-body text-center">
                 <div class="h1 mb-3">
