@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex justify-content-center align-items-center">
+  <div class="loader d-flex justify-content-center align-items-center">
     <img class="img-fluid" src="../assets/gearIcon.gif" alt="" />
   </div>
 </template>

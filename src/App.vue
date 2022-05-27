@@ -33,6 +33,7 @@ export default {
   }),
   mounted() {
     setTimeout(() => {
+      document.querySelector(".loader").classList.add("fade-out");
       this.loading = false;
     }, 3000);
   },
