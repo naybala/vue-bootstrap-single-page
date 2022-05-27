@@ -7,6 +7,9 @@
     <ShowCase />
     <SignUp />
     <Box />
+    <LearnBase />
+    <LearnFrameWork />
+    <LearnDatabase />
     <Footer />
   </div>
 </template>
@@ -18,6 +21,9 @@ import ShowCase from "./components/ShowCase.vue";
 import SignUp from "./components/SignUp.vue";
 import Box from "./components/Box.vue";
 import Footer from "./components/Footer.vue";
+import LearnBase from "./components/LearnBase.vue";
+import LearnFrameWork from "./components/LearnFrameWork.vue";
+import LearnDatabase from "./components/LearnDatabase.vue";
 export default {
   name: "App",
   components: {
@@ -26,6 +32,9 @@ export default {
     ShowCase,
     SignUp,
     Box,
+    LearnBase,
+    LearnFrameWork,
+    LearnDatabase,
     Footer,
   },
   data: () => ({
