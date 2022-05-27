@@ -1,7 +1,7 @@
 <template>
   <!-- Footer -->
   <footer class="p-4 bg-dark text-white text-center position-relative footer">
-    <p class="lead">Copyright &copy; 2021</p>
+    <p class="lead">Copyright &copy; 2022</p>
     <section class="p-5">
       <div class="container">
         <div class="row text-center g-4 g-sm-0">

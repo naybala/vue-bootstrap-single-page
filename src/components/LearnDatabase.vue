@@ -16,9 +16,30 @@
             eius autem eveniet mollitia, at asperiores suscipit quae similique laboriosam
             iste minus placeat odit velit quos, nulla architecto amet voluptates?
           </p>
-          <a href="#" class="btn btn-light mt-3">
-            <i class="bi bi-chevron-right"></i> Read More
-          </a>
+          <div class="accordion accordion-flush">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#readMore-Three"
+                >
+                  Read More
+                </button>
+              </h2>
+              <div id="readMore-Three" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae
+                  fuga animi distinctio perspiciatis adipisci velit maiores totam tempora
+                  accusamus modi explicabo accusantium consequatur, praesentium rem
+                  quisquam molestias at quos vero. Officiis ad velit doloremque at.
+                  Dignissimos praesentium necessitatibus natus corrupti cum consequatur
+                  aliquam! Minima molestias iure quam distinctio velit.
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

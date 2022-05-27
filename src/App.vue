@@ -10,6 +10,7 @@
     <LearnBase />
     <LearnFrameWork />
     <LearnDatabase />
+    <Question />
     <Footer />
   </div>
 </template>
@@ -24,6 +25,7 @@ import Footer from "./components/Footer.vue";
 import LearnBase from "./components/LearnBase.vue";
 import LearnFrameWork from "./components/LearnFrameWork.vue";
 import LearnDatabase from "./components/LearnDatabase.vue";
+import Question from "./components/Question.vue";
 export default {
   name: "App",
   components: {
@@ -36,6 +38,7 @@ export default {
     LearnFrameWork,
     LearnDatabase,
     Footer,
+    Question,
   },
   data: () => ({
     loading: true,
