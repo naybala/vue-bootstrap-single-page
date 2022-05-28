@@ -2,6 +2,11 @@
   <section class="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
     <div class="container">
       <div class="d-sm-flex align-items-center justify-content-between">
+        <img
+          class="img-fluid w-50 d-none d-sm-block"
+          src="../assets/showcase.svg"
+          alt=""
+        />
         <div>
           <h1>Become a <span class="text-warning"> Web Developer </span></h1>
           <p class="lead my-4">
@@ -16,11 +21,6 @@
             Start The Enrollment
           </button>
         </div>
-        <img
-          class="img-fluid w-50 d-none d-sm-block"
-          src="../assets/showcase.svg"
-          alt=""
-        />
       </div>
     </div>
   </section>
