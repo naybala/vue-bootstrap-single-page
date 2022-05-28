@@ -20,7 +20,7 @@
             <a href="#questions" class="nav-link">Questions</a>
           </li>
           <li class="nav-item">
-            <a href="#instructors" class="nav-link">Instructors</a>
+            <a href="#teachers" class="nav-link">Teachers</a>
           </li>
         </ul>
       </div>

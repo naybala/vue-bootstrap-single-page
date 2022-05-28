@@ -12,6 +12,8 @@
     <LearnFrameWork />
     <LearnDatabase />
     <Question />
+    <Teacher />
+    <ContactMaps />
     <Footer />
   </div>
 </template>
@@ -28,6 +30,8 @@ import LearnFrameWork from "./components/LearnFrameWork.vue";
 import LearnDatabase from "./components/LearnDatabase.vue";
 import Question from "./components/Question.vue";
 import ScrollTop from "./components/ScrollTop.vue";
+import Teacher from "./components/Teacher.vue";
+import ContactMaps from "./components/ContactMaps.vue";
 export default {
   name: "App",
   components: {
@@ -42,6 +46,8 @@ export default {
     Footer,
     Question,
     ScrollTop,
+    Teacher,
+    ContactMaps,
   },
   data: () => ({
     loading: true,
@@ -61,12 +67,12 @@ body::before {
   content: "";
   height: 60px;
 }
-/* 
+
 #map {
   width: 100%;
   height: 100%;
   border-radius: 10px;
-} */
+}
 
 @media (min-width: 768px) {
   .news-input {
