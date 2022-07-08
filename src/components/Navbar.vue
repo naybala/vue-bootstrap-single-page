@@ -2,6 +2,12 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
     <div class="container">
+      <a
+        href="#"
+        class="navbar-brand text-primary border-top border-primary border-bottom rounded-3 p-2"
+        >Vue 3 + Bootsrtap 5</a
+      >
+
       <button
         class="navbar-toggler"
         type="button"
@@ -24,11 +30,6 @@
           </li>
         </ul>
       </div>
-      <a
-        href="#"
-        class="navbar-brand text-primary border-top border-primary border-bottom rounded-3 p-2"
-        >Vue 3 + Bootsrtap 5</a
-      >
     </div>
   </nav>
 </template>
